@@ -14,3 +14,6 @@ def ev(n):
     return True
   else:
     return False
+
+def add(a,b):
+  return a+b
